@@ -1,37 +1,38 @@
 ## Weekdays
 
-| Time     | WGBH 89.7                 | WBUR 90.9                       |
-|----------|---------------------------|---------------------------------|
-| 12:00 AM | As It Happens             | BBC Newsday                     |
-| 1:00 AM  | PRX Remix                 |                                 |
-| 2:00 AM  |                           |                                 |
-| 3:00 AM  | BBC World Service         |                                 |
-| 4:00 AM  |                           |                                 |
-| 5:00 AM  | Morning Edition           | Morning Edition                 |
-| 6:00 AM  |                           |                                 |
-| 7:00 AM  |                           |                                 |
-| 8:00 AM  |                           |                                 |
-| 9:00 AM  |                           | BBC Newshour                    |
-| 10:00 AM | 1A                        | On Point*                       |
-| 11:00 AM | Boston Public Radio*      |                                 |
-| 12:00 PM |                           | Here & Now                      |
-| 1:00 PM  |                           |                                 |
-| 2:00 PM  | The Takeaway              | Fresh Air (Fri: Science Friday) |
-| 3:00 PM  | The World                 | Radio Boston                    |
-| 4:00 PM  | All Things Considered     | All Things Considered           |
-| 5:00 PM  |                           |                                 |
-| 6:00 PM  | Marketplace               |                                 |
-| 6:30 PM  | All Things Considered     | Marketplace                     |
-| 7:00 PM  | PBS NewsHour              | On Point*                       |
-| 8:00 PM  | The World                 | The Daily                       |
-| 8:30 PM  |                           | Marketplace                     |
-| 9:00 PM  | Wed: Boston Public Radio* | 1A                              |
-|          | Thur: Under the Radar*    |                                 |
-|          | Fri: Jazz 24/7*           |                                 |
-| 10:00 PM | Thur: Radiolab            | Fresh Air                       |
-|          | Fri: Jazz 24/7*           |                                 |
-| 11:00 PM | The Takeaway (Fri: Jazz)  | BBC Newshour                    |
-|          | Fri: Jazz 24/7*           |                                 |
+| Time     | WGBH 89.7                 | WBUR 90.9             |
+|----------|---------------------------|-----------------------|
+| 12:00 AM | As It Happens             | BBC Newsday           |
+| 1:00 AM  | PRX Remix                 |                       |
+| 2:00 AM  |                           |                       |
+| 3:00 AM  | BBC World Service         |                       |
+| 4:00 AM  |                           |                       |
+| 5:00 AM  | Morning Edition           | Morning Edition       |
+| 6:00 AM  |                           |                       |
+| 7:00 AM  |                           |                       |
+| 8:00 AM  |                           |                       |
+| 9:00 AM  |                           | BBC Newshour          |
+| 10:00 AM | 1A                        | On Point*             |
+| 11:00 AM | Boston Public Radio*      |                       |
+| 12:00 PM |                           | Here & Now            |
+| 1:00 PM  |                           |                       |
+| 2:00 PM  | The Takeaway              | Fresh Air             |
+|          |                           | Fri: Science Friday   |
+| 3:00 PM  | The World                 | Radio Boston          |
+| 4:00 PM  | All Things Considered     | All Things Considered |
+| 5:00 PM  |                           |                       |
+| 6:00 PM  | Marketplace               |                       |
+| 6:30 PM  | All Things Considered     | Marketplace           |
+| 7:00 PM  | PBS NewsHour              | On Point*             |
+| 8:00 PM  | The World                 | The Daily             |
+| 8:30 PM  |                           | Marketplace           |
+| 9:00 PM  | Wed: Boston Public Radio* | 1A                    |
+|          | Thur: Under the Radar*    |                       |
+|          | Fri: Jazz 24/7*           |                       |
+| 10:00 PM | Thur: Radiolab            | Fresh Air             |
+|          | Fri: Jazz 24/7*           |                       |
+| 11:00 PM | The Takeaway              | BBC Newshour          |
+|          | Fri: Jazz 24/7*           |                       |
 
 
 ## Saturday
